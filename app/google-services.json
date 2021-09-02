@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289329618812",
+    "project_id": "test-app-432bf",
+    "storage_bucket": "test-app-432bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289329618812:android:830427b13f83580dbf0ef9",
+        "android_client_info": {
+          "package_name": "com.tester.testarbita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289329618812-ps0mg1oe8vutor4pjtp9b0s2oiderftq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVzNwH7oDhJ6P0WB_joEg-Jf6NyEXCuhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289329618812-ps0mg1oe8vutor4pjtp9b0s2oiderftq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
